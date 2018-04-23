@@ -1,0 +1,6 @@
+--2018-04-23 15:54:20--  http://ci.pcflab.jp/api/v1/cli?arch=amd64
+ci.pcflab.jp (ci.pcflab.jp) をDNSに問いあわせています... 35.227.236.84
+ci.pcflab.jp (ci.pcflab.jp)|35.227.236.84|:80 に接続しています... 接続しました。
+HTTP による接続要求を送信しました、応答を待っています... 400 Bad Request
+2018-04-23 15:54:20 エラー 400: Bad Request。
+
